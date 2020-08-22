@@ -2,7 +2,7 @@ if AleaUI_GUI then return end
 local ns = _G['AleaGUI_PrototypeLib']
 
 ns.multiSelect = {}
-
+local _
 local BuildDropDown, UpdateDropdownButtons, ResetDropdowns
 local ResetNextDropdowns
 

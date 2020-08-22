@@ -3,6 +3,7 @@ local ns = _G['AleaGUI_PrototypeLib']
 
 ns.colorFrames = {}
 
+local _
 local current
 
 local customColorPicker = _G['AleaUIGUI-ColorPickerFrame'] or CreateFrame('Frame', 'AleaUIGUI-ColorPickerFrame', UIParent, BackdropTemplateMixin and 'BackdropTemplate')
