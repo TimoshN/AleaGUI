@@ -1,6 +1,7 @@
 ## Interface: 60000
 ## Title: LibAleaUI-1.0
 ## Notes: LibAleaUI-1.0
+## License: All rights reserved. Do not redistribute, in whole or in part, without explicit prior permission from the author.
 ## Author: Alea
 ## Version: 1.0
 
